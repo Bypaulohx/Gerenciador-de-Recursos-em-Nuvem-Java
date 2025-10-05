@@ -29,16 +29,8 @@ Aplicação CLI simples para criar, listar, iniciar, parar e terminar instância
 - `stop`: para instâncias (IDs)
 - `terminate`: termina instâncias (IDs)
 
-## Prints / Screenshots
-
-Inclua capturas de tela do fluxo — por exemplo: ambiente VSCode com o terminal executando a aplicação, ou console AWS mostrando as instâncias.
-
 ## Boas práticas
 
 - Sempre terminar instâncias de teste.
 - Nunca comitar credenciais.
 - Use roles/instance profiles em produção.
-
-## Licença
-
-MIT
